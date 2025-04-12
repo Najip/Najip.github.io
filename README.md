@@ -1,2 +1,1 @@
-# Najip.github.io
-Source Repositories for Najip.github.io github sites.
+This is the place for any works by [Github/Najip](https://github.com/Najip)
